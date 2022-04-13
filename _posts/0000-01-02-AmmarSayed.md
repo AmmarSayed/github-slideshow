@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Awesome AmmarSayed slide!"
+title: "Awesome 🤗 AmmarSayed slide!"
 ---
 
 This is AmmarSayed Slide.
