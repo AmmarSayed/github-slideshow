@@ -1,7 +1,7 @@
 ---
 layout: slide
-title: "Welcome to AmmarSayed slide!"
+title: "Awesome AmmarSayed slide!"
 ---
 
-This is AmmarSayed Slide...
+This is AmmarSayed Slide.
 Use the left arrow to go back!
